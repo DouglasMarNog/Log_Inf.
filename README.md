@@ -11,7 +11,9 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.2025
 ![image](https://github.com/user-attachments/assets/99f60e79-db00-4a09-8e6d-f01ef82efdfb)
 
 ## Terceira atividade : Pesquisa em dados aberto despesa de multas
+
 ![image](https://github.com/user-attachments/assets/acb19501-07c6-4652-848b-964e2f9a3575)
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/douglas_nogueira4_fatec_sp_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B1fb87a86-1397-41f9-8fcf-46f5b8ae69f9%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1745366051186&web=1
 ![image](https://github.com/user-attachments/assets/4918f724-7f84-4232-a787-5e7a18c8aeb4)
 
 
