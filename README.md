@@ -1,7 +1,7 @@
 # Log_Inf.
 Aprendizado - Informática
 
-## Primeira atividade : Apresentação Canva
+## Primeira atividade : Apresentação canva
 file:///C:/Users/Fatec/Desktop/Apresenta%C3%A7%C3%A3o%20Pessoal.pdf
 ![image](https://github.com/user-attachments/assets/f692560e-e415-417d-82ed-60f48fe522a4)
 
@@ -10,5 +10,8 @@ https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.2025
 ![image](https://github.com/user-attachments/assets/798075e8-c277-4c7f-9043-396b3c603ee1)
 ![image](https://github.com/user-attachments/assets/99f60e79-db00-4a09-8e6d-f01ef82efdfb)
 
-## Terceira atividade : 
+## Terceira atividade : Pesquisa em dados aberto despesa de multas
+![image](https://github.com/user-attachments/assets/acb19501-07c6-4652-848b-964e2f9a3575)
+![image](https://github.com/user-attachments/assets/4918f724-7f84-4232-a787-5e7a18c8aeb4)
+
 
